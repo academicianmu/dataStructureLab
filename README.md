@@ -48,7 +48,7 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/your-username/datastructure.git
+   git clone https://github.com/academicianmu/datastructure.git
    cd datastructure
    ```
 
