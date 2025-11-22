@@ -133,7 +133,6 @@
 datastructure/
 ├── CMakeLists.txt          # CMake构建配置
 ├── README.md              # 项目说明文档
-├── 数据结构.txt            # 实验要求文档
 ├── src/                   # 源代码目录
 │   ├── main.cpp           # 程序入口
 │   ├── main_window.cpp    # 主窗口实现
